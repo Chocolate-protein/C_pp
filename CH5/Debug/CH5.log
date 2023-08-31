@@ -1,0 +1,21 @@
+﻿  5.5)객체와 함수.cpp
+c:\users\lg\source\repos\2020-2\ch5\5.5)객체와 함수.cpp(147): error C2059: 구문 오류: '}'
+c:\users\lg\source\repos\2020-2\ch5\5.5)객체와 함수.cpp(147): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+c:\users\lg\source\repos\2020-2\ch5\5.5)객체와 함수.cpp(148): error C2653: 'Bankaccount': 클래스 또는 네임스페이스 이름이 아닙니다.
+c:\users\lg\source\repos\2020-2\ch5\5.5)객체와 함수.cpp(148): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\lg\source\repos\2020-2\ch5\5.5)객체와 함수.cpp(148): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?
+c:\users\lg\source\repos\2020-2\ch5\5.5)객체와 함수.cpp(160): error C2065: 'Bankaccount': 선언되지 않은 식별자입니다.
+c:\users\lg\source\repos\2020-2\ch5\5.5)객체와 함수.cpp(160): error C2146: 구문 오류: ';'이(가) 'account' 식별자 앞에 없습니다.
+c:\users\lg\source\repos\2020-2\ch5\5.5)객체와 함수.cpp(160): error C2065: 'account': 선언되지 않은 식별자입니다.
+c:\users\lg\source\repos\2020-2\ch5\5.5)객체와 함수.cpp(161): error C2065: 'account': 선언되지 않은 식별자입니다.
+c:\users\lg\source\repos\2020-2\ch5\5.5)객체와 함수.cpp(162): error C2065: 'account': 선언되지 않은 식별자입니다.
+c:\users\lg\source\repos\2020-2\ch5\5.5)객체와 함수.cpp(163): error C2065: 'account': 선언되지 않은 식별자입니다.
+c:\users\lg\source\repos\2020-2\ch5\5.5)객체와 함수.cpp(164): error C2065: 'account': 선언되지 않은 식별자입니다.
+c:\users\lg\source\repos\2020-2\ch5\5.5)객체와 함수.cpp(165): error C2065: 'account': 선언되지 않은 식별자입니다.
+c:\users\lg\source\repos\2020-2\ch5\5.5)객체와 함수.cpp(166): error C2065: 'account': 선언되지 않은 식별자입니다.
+c:\users\lg\source\repos\2020-2\ch5\5.5)객체와 함수.cpp(167): error C2065: 'account': 선언되지 않은 식별자입니다.
+c:\users\lg\source\repos\2020-2\ch5\5.5)객체와 함수.cpp(168): error C2065: 'account': 선언되지 않은 식별자입니다.
+c:\users\lg\source\repos\2020-2\ch5\5.5)객체와 함수.cpp(169): error C2065: 'account': 선언되지 않은 식별자입니다.
+c:\users\lg\source\repos\2020-2\ch5\5.5)객체와 함수.cpp(170): error C2065: 'account': 선언되지 않은 식별자입니다.
+c:\users\lg\source\repos\2020-2\ch5\5.5)객체와 함수.cpp(173): warning C4138: '*/'가 주석 외부에 있습니다.
+c:\users\lg\source\repos\2020-2\ch5\5.5)객체와 함수.cpp(173): error C2059: 구문 오류: '/'
